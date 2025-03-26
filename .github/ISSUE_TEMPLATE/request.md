@@ -2,7 +2,7 @@
 name: Request
 about: Request a new or adjustment for Nebula OpenAPI
 title: ''
-labels: ''
+labels: request
 assignees: ken-phung
 
 ---
